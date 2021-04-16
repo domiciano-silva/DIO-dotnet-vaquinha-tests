@@ -1,0 +1,9 @@
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/bin/Debug/netcoreapp3.1/Vaquinha.Domain.deps.json
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/bin/Debug/netcoreapp3.1/Vaquinha.Domain.dll
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/bin/Debug/netcoreapp3.1/Vaquinha.Domain.pdb
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.csprojAssemblyReference.cache
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.AssemblyInfoInputs.cache
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.AssemblyInfo.cs
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.csproj.CoreCompileInputs.cache
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.dll
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.pdb

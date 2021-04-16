@@ -1,0 +1,15 @@
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/bin/Debug/netcoreapp3.1/Vaquinha.Repository.deps.json
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/bin/Debug/netcoreapp3.1/Vaquinha.Repository.runtimeconfig.json
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/bin/Debug/netcoreapp3.1/Vaquinha.Repository.runtimeconfig.dev.json
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/bin/Debug/netcoreapp3.1/Vaquinha.Repository.dll
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/bin/Debug/netcoreapp3.1/Vaquinha.Repository.pdb
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/bin/Debug/netcoreapp3.1/Vaquinha.Domain.dll
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/bin/Debug/netcoreapp3.1/Vaquinha.Domain.pdb
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.csprojAssemblyReference.cache
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.AssemblyInfoInputs.cache
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.AssemblyInfo.cs
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.csproj.CoreCompileInputs.cache
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.csproj.CopyComplete
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.dll
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.pdb
+/home/dev21/DIO/Vaquinha/src/Vaquinha.Repository/obj/Debug/netcoreapp3.1/Vaquinha.Repository.genruntimeconfig.cache
